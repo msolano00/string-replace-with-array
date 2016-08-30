@@ -1,0 +1,24 @@
+{
+  "name": "string-replace-with-array",
+  "version": "1.0.0",
+  "description": "Basic character replacement from string to array values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msolano00/string-replace-with-array.git"
+  },
+  "keywords": [
+    "String",
+    "Replace",
+    "Array"
+  ],
+  "author": "Marvin Solano <msolano@gmail.com> (http://marvinsolano.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msolano00/string-replace-with-array/issues"
+  },
+  "homepage": "https://github.com/msolano00/string-replace-with-array#readme"
+}
