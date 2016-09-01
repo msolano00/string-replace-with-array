@@ -1,6 +1,6 @@
 {
   "name": "string-replace-with-array",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Basic character replacement from string to array values.",
   "main": "index.js",
   "scripts": {
